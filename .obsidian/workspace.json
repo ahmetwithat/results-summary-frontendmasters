@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "7b61d61a39abd3fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "001a7401e6261143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1abc5fc808b12abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7fe935cec187fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "344fedbc1b8d867b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4fab1233eb4c615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ba9285166d95357",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "098903b58e153c47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b13456bdff483fad",
+    "type": "split",
+    "children": [
+      {
+        "id": "865fcd71c13292a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7858a12f8f2fd9cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c5aff5759040e46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76ec0984b538179b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6eb13f274fcfd9a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1abc5fc808b12abd",
+  "lastOpenFiles": [
+    "style.css",
+    "Your Result.txt",
+    "design/active-states.jpg",
+    "design/desktop-design.jpg",
+    "design/desktop-preview.jpg",
+    "design/mobile-design.jpg",
+    "README.md",
+    "README-template.md",
+    "assets/images/favicon-32x32.png",
+    "assets/images/icon-visual.svg",
+    "assets/images/icon-reaction.svg",
+    "assets/images/icon-memory.svg"
+  ]
+}

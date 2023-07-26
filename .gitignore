@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-.obsidian
+.obsidian/
 style-guide.md
